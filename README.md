@@ -57,8 +57,10 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 |       ├── examples/
 |       |   ├── animacaoSimples/
 |       |   |   └── animacaoSimples.ino
-|       |   └── sorriso/
-|       |       └── sorriso.ino
+|       |   ├── sorriso/
+|       |   |   └── sorriso.ino
+|       |   └── pimenta/
+|       |       └── pimenta.ino 
 |       ├── src/
 |       |   ├── Matrix8x8.cpp
 |       |   └── Matrix8x8.h
