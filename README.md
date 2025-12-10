@@ -10,8 +10,6 @@ São utilizados 7 botões, 4 para controle do cursor nas 4 direções cardeais, 
 
 ## Estrutura geral
 
-O código é feito baseado em uma máquina de estados, onde a cada aperto no botão, altera o estado, e cada um representa uma posição de cada servo-motor, ao final dos estados, o próprio código ja reseta a máquina para o estado 0 novamente.
-
 O projeto está dividido em três partes:
 
   Matrix8x8.h → Arquivo de cabeçalho
