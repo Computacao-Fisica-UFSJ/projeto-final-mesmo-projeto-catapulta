@@ -52,6 +52,18 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 │   └── Diagrama.png
 ├── Tela_matriz8x8/
 |   └── Tela_matriz8x8.jpeg
+├── Biblioteca/
+|   └── Matrix8x8/
+|       ├── examples/
+|       |   ├── animacaoSimples/
+|       |   |   └── animacaoSimples.ino
+|       |   └── sorriso/
+|       |       └── sorriso.ino
+|       ├── src/
+|       |   ├── Matrix8x8.cpp
+|       |   └── Matrix8x8.h
+|       ├── keywords.txt
+|       └── library.properties 
 ├── Projeto_final.ino
 └── README.md
 ```
@@ -102,8 +114,8 @@ No circuito está conectado ambos os **registradores**, da **matriz de LED's** e
 
 - Dos registradores para o arduíno foram necessárias 3 conexões, sendo elas:
   Pino 12 (Data): Registrador 1.
-  Pino 13: (Clock): Divisão para ambos os registradores.
-  Pino 11: (Latch): Divisão para ambos os registradores.
+  Pino 13 (Clock): Divisão para ambos os registradores.
+  Pino 11 (Latch): Divisão para ambos os registradores.
 
   **OBS: O data do registrador 2, vem do pino 9 (Q7') do registrador 1**
 
@@ -125,7 +137,7 @@ No circuito está conectado ambos os **registradores**, da **matriz de LED's** e
 
 <img src="Tela_matriz8x8/Tela_matriz8x8.jpeg" width="685"/>
 
-**Link do vídeo do projeto em funcionamento:** https://drive.google.com/file/d/19JlpvGKZUz-Afme4KnpF8WVKFUXJbKl6/view
+**Link do vídeo do projeto em funcionamento:** https://drive.google.com/file/d/13l1KJABrV0OVrO8qWX6u4hhpkRhSDgGx/view?usp=sharing
 
 ---
 
