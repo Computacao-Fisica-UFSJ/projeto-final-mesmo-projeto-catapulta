@@ -47,12 +47,12 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 
 ```
 .
-├── Diagrama_de_montagem/
-│   ├── projeto_catapulta.fzz
-│   └── diagrama.png
-├── Catapulta/
-|   └── catapulta.jpeg
-├── Projeto_catapulta.ino
+├── Diagrama/
+│   ├── esquematico_matrix.fzz
+│   └── Diagrama.png
+├── Tela_matriz8x8/
+|   └── Tela_matriz8x8.jpeg
+├── Projeto_final.ino
 └── README.md
 ```
 
@@ -62,19 +62,19 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 
 ### **1 Matriz de LED's 8x8 1088AS**
 
-<img src="https://eficazjf.com.br/wp-content/uploads/2022/04/palito-picole-quadrado-granel.jpg" width="300"/>
+<img src="https://www.usinainfo.com.br/1025475-thickbox_default/matriz-de-led-8x8.jpg" width="300"/>
 
 ### **2 Registradores de 8 bits 74HC595**
 
-<img src="https://espacobambui.com.br/wp-content/uploads/2016/08/campanha-tampinhas-garrafa-pet.jpg" width="300"/>
+<img src="https://images.tcdn.com.br/img/img_prod/751846/74hc595_ci_registrador_de_deslocamento_1203_1_20240418034503.jpg" width="300"/>
 
 ### **1 Shield Joystick para Arduíno Nokia 5110**
 
-<img src="https://cdn.awsli.com.br/2500x2500/1027/1027618/produto/208265220/fita-adesiva-transparente-45-mm-100-m-4611-jmbqti.jpg" width="300"/>
+<img src="https://images.tcdn.com.br/img/img_prod/650361/745_0_20190311152628.jpg" width="300"/>
 
 ### **8 Resistores de 1K Ohms**
 
-<img src="https://images.tcdn.com.br/img/img_prod/1226139/prendedor_de_papel_51mm_cis_blinder_clips_preto_291_5500_2061_1_160209d05b3cb15960b726d9a2897470.jpg" width="300"/>
+<img src="https://cdn.awsli.com.br/600x700/2599/2599375/produto/2164717216360f6deab.jpg" width="300"/>
 
 ### **Jumpers**
 
@@ -88,7 +88,7 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 
 ## Diagrama de montagem
 
-<img src="Diagrama_de_montagem/diagrama.png" width="685"/>
+<img src="Diagrama/Diagrama.png" width="685"/>
 
 ### Explicação do diagrama
 
@@ -123,7 +123,7 @@ No circuito está conectado ambos os **registradores**, da **matriz de LED's** e
 
 ## Projeto Montado
 
-<img src="Catapulta/catapulta.jpeg" width="685"/>
+<img src="Tela_matriz8x8/Tela_matriz8x8.jpeg" width="685"/>
 
 **Link do vídeo do projeto em funcionamento:** https://drive.google.com/file/d/19JlpvGKZUz-Afme4KnpF8WVKFUXJbKl6/view
 
@@ -142,5 +142,6 @@ No circuito está conectado ambos os **registradores**, da **matriz de LED's** e
 ## Referências
 
 **Projeto base:** https://docs.arduino.cc/built-in-examples/display/RowColumnScanning/
+
 **Referênicia do Shield:** https://aluno.escoladigital.pr.gov.br/sites/alunos/arquivos_restritos/files/documento/2023-06/aula19_joystick_shield_em_m2_v2.pdf
 
