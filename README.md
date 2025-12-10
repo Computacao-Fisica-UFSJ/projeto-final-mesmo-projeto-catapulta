@@ -78,7 +78,7 @@ Antes de exibir, o programa copia o desenho para um buffer temporário, adiciona
 
 ### **Jumpers**
 
-<img src="https://www.vidadesilicio.com.br/wp-content/uploads/2021/09/1848-jpg.webp" width="300"/>
+<img src="https://curtocircuito.com.br/media/catalog/product/cache/39699d3c43c18428eb057c8e614b0843/_/k/_k_i_kit_jumper_macho_macho_-_20_p_s_1.jpg" width="300"/>
 
 ### **Arduino UNO**
 
